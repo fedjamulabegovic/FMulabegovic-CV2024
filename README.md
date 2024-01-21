@@ -4,7 +4,7 @@ Welcome to the GitHub repository containing my professional Curriculum Vitae (CV
 
 ## Overview
 
-This CV includes detailed information about my education, work experience, projects, skills, and other professional activities. It is designed to give a comprehensive overview of my qualifications and interests in the field of Computer Science and Biomedical Engineering.
+This CV includes detailed information about my education, work experience, projects, skills, and other professional activities. It is designed to give a comprehensive overview of my qualifications and interests in the field of Computer Science.
 
 ## Contents
 
