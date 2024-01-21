@@ -8,7 +8,7 @@ This CV includes detailed information about my education, work experience, proje
 
 ## Contents
 
-- `FedjaMulabegovic_CV.pdf` - A PDF version of my full CV, ready for printing or viewing.
+- `FedjaMulabegovicCV.pdf` - A PDF version of my full CV, ready for printing or viewing.
 - `source` - This folder contains the LaTeX source files used to create the CV. It's ideal for those interested in the formatting and structure of the document.
 - `projects` - Here, you can find additional details and links to the projects mentioned in the CV.
 
